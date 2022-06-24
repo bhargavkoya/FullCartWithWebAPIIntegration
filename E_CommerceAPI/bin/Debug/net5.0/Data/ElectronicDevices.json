@@ -1,0 +1,86 @@
+﻿[
+  {
+    "EName": "Lenovo Core i3 10th Gen",
+    "Category": 0,
+    "Price": 39999,
+    "Quantity": 100,
+    "LaunchDate": "2020-06-24",
+    "Rating": 9,
+    "ImageFile": "https://rukminim1.flixcart.com/image/416/416/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70",
+    "EBrand": 2,
+    "Description": "Stylish & Portable Thin and Light Laptop,15.6 inch Full HD TN 220nits Anti-glare Display,Light Laptop without Optical Disk Drive (8 GB/512 GB SSD/Windows 11 Home) 15IML05 Thin and Light Laptop  (15.6 inch, Platinum Grey, 1.7 Kg, With MS Office)",
+    "FreeDelivery": true,
+    "Active": true
+
+  },
+  {
+    "EName": "REDMI 10A ",
+    "Category": 1,
+    "Price": 9476,
+    "Quantity": 100,
+    "LaunchDate": "2020-06-28",
+    "Rating": 8,
+    "ImageFile": "https://rukminim1.flixcart.com/image/416/416/l2f20sw0/mobile/n/t/p/10a-b09xb6tk6v-redmi-original-imagdrghghkneesf.jpeg?q=70",
+    "EBrand": 4,
+    "Description": "4 GB RAM | 64 GB ROM,16.59 cm (6.53 inch) Display,13MP Rear Camera5000 mAh Battery(Sea Blue, 64 GB)",
+    "FreeDelivery": true,
+    "Active": true
+
+  },
+  {
+    "EName": "SONY C400 Bluetooth Headset",
+    "Category": 2,
+    "Price": 2999,
+    "Quantity": 100,
+    "LaunchDate": "2020-06-22",
+    "Rating": 8,
+    "ImageFile": "https://rukminim1.flixcart.com/image/416/416/jae8rrk0/headphone/t/b/j/sony-wi-c400-original-imaezyzrhjruggjz.jpeg?q=70",
+    "EBrand": 1,
+    "Description": "Bluetooth version: 4.2,Wireless range: 10 m,Battery life: 20 hrs | Charging time: Approximate 4.5 hrs, Flatwire: Stays tangle free even in your pocket",
+    "FreeDelivery": true,
+    "Active": true
+  },
+  {
+    "EName": "Canon EOS 3000D DSLR Camera",
+    "Category": 3,
+    "Price": 26999,
+    "Quantity": 100,
+    "LaunchDate": "2020-06-24",
+    "Rating": 8,
+    "ImageFile": "https://rukminim1.flixcart.com/image/416/416/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
+    "EBrand": 1,
+    "Description": "Self-Timer | Type C and Mini HDMI, |9 Auto Focus Points | 35x Optical Zoom., Effective Pixels: 18 MP APS-C CMOS sensor-which is 25 times larger than a typical Smartphone sensor., WiFi | Full HD | Video Recording at 1080 p on 30fps.WiFi Available",
+    "FreeDelivery": true,
+    "Active": true
+
+  },
+  {
+    "EName": "SAMSUNG Crystal 4K Pro",
+    "Category": 4,
+    "Price": 34999,
+    "Quantity": 100,
+    "LaunchDate": "2020-06-24",
+    "Rating": 1,
+    "ImageFile": "https://rukminim1.flixcart.com/image/416/416/l3nco7k0/television/v/h/5/-original-imageq5euy3ymznz.jpeg?q=70",
+    "EBrand": 10,
+    "Description": "Supported Apps: Netflix|Disney+Hotstar|Youtube,Operating System: Tizen,Resolution: Ultra HD (4K) 3840 x 2160 Pixels,Sound Output: 20 W,Refresh Rate: 60 Hz",
+    "FreeDelivery": true,
+    "Active": true
+
+  },
+  {
+    "EName": "HP DeskJet 2332 Multi-function Color Printer ",
+    "Category": 5,
+    "Price": 4099,
+    "Quantity": 100,
+    "LaunchDate": "2020-06-24",
+    "Rating": 1,
+    "ImageFile": "https://rukminim1.flixcart.com/image/416/416/kd94uq80/printer/z/c/z/hp-deskjet-2332-original-imafu6gdhzruynxj.jpeg?q=70",
+    "EBrand": 3,
+    "Description": "Output: Color,USB | USB,(White, Grey, Ink Cartridge)",
+    "FreeDelivery": true,
+    "Active": true
+
+  }
+
+]
