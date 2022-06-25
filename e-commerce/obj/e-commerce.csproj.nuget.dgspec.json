@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\e-commerce\\e-commerce.csproj": {}
+    "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\e-commerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\e-commerce\\e-commerce.csproj": {
+    "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\e-commerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\e-commerce\\e-commerce.csproj",
+        "projectUniqueName": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\e-commerce.csproj",
         "projectName": "e-commerce",
-        "projectPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\e-commerce\\e-commerce.csproj",
+        "projectPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\e-commerce.csproj",
         "packagesPath": "C:\\Users\\bhargava.koya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\e-commerce\\obj\\",
+        "outputPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\E_CommerceAPI\\E_CommerceAPI.csproj": {
-                "projectPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\E_CommerceAPI\\E_CommerceAPI.csproj"
+              "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\E_CommerceAPI\\E_CommerceAPI.csproj": {
+                "projectPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\E_CommerceAPI\\E_CommerceAPI.csproj"
               }
             }
           }
@@ -79,6 +79,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
             }
           },
           "imports": [
@@ -103,14 +107,14 @@
         }
       }
     },
-    "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\E_CommerceAPI\\E_CommerceAPI.csproj": {
+    "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\E_CommerceAPI\\E_CommerceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\E_CommerceAPI\\E_CommerceAPI.csproj",
+        "projectUniqueName": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\E_CommerceAPI\\E_CommerceAPI.csproj",
         "projectName": "E_CommerceAPI",
-        "projectPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\E_CommerceAPI\\E_CommerceAPI.csproj",
+        "projectPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\E_CommerceAPI\\E_CommerceAPI.csproj",
         "packagesPath": "C:\\Users\\bhargava.koya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\E_CommerceAPI\\obj\\",
+        "outputPath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\E_CommerceAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,6 +170,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

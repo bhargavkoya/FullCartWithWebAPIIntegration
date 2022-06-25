@@ -69,7 +69,7 @@ namespace e_commerce.Controllers
             {
                 return RedirectToAction("Customer", "Login");
             }
-            return View();
+            return RedirectToAction("OrderEmpty");
            
            
         }

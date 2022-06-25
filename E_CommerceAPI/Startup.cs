@@ -31,7 +31,7 @@ namespace E_CommerceAPI
 
             services.AddControllers();
             services.AddDbContext<ShoppingDbContext>(options =>
-                   options.UseSqlServer(Configuration.GetConnectionString("ECommerceDBAPI")));
+                   options.UseNpgsql(Configuration.GetConnectionString("ECommerceDBAPI")));
            // services.AddSession();
             services.AddSwaggerGen(c =>
             {

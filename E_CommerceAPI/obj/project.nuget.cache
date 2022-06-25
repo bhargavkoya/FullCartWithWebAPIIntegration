@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tEwnE1coZa5zBgxXYiiY4drYaDjUgjExvaqAV583+r3XRVioC7Y4+97z4Tlva3JkKxqpPqom5roFFrDLTSLDPw==",
+  "dgSpecHash": "x/cjMvh7lka5yS3364tAcqLO3vpfmlaL8Itcr24yQkwxUM9xb9+jjj1+ZOaGzN7VZyx1IspCFK7CrmsLreMjtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Project\\ECommerceproject\\FullCartWithWebAPIIntegration\\e-commerce\\E_CommerceAPI\\E_CommerceAPI.csproj",
+  "projectFilePath": "C:\\Users\\bhargava.koya\\Desktop\\C#\\Ecommerceproject\\FullCartWithWebAPIIntegration\\E_CommerceAPI\\E_CommerceAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -23,7 +23,7 @@
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.10\\microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.9\\microsoft.entityframeworkcore.design.5.0.9.nupkg.sha512",
-    "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.9\\microsoft.entityframeworkcore.relational.5.0.9.nupkg.sha512",
+    "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.10\\microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.9\\microsoft.entityframeworkcore.sqlserver.5.0.9.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.9\\microsoft.entityframeworkcore.tools.5.0.9.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
@@ -56,6 +56,8 @@
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\bhargava.koya\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\bhargava.koya\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.10\\npgsql.entityframeworkcore.postgresql.5.0.10.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
     "C:\\Users\\bhargava.koya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
