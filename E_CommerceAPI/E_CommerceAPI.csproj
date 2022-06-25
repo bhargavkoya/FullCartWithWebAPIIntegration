@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
+    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
+
   </PropertyGroup>
 
   <ItemGroup>
